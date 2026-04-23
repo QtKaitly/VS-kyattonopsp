@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "file": "mapper:itemtypes/compass-primitive.json",
+    "path": "/durability",
+    "value": 400
+  },
+  {
+    "op": "add",
+    "file": "mapper:itemtypes/compass-precise.json",
+    "path": "/durability",
+    "value": 1000
+  },
+  {
+    "op": "add",
+    "file": "mapper:recipes/grid/map.json",
+    "path": "/1/ingredients/C/istool",
+    "value": true,
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "file": "mapper:recipes/grid/map.json",
+    "path": "/1/ingredients/C/toolDurabilityCost",
+    "value": 50,
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "file": "mapper:recipes/grid/map.json",
+    "path": "/0/ingredients/C/istool",
+    "value": true,
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "file": "mapper:recipes/grid/map.json",
+    "path": "/0/ingredients/C/toolDurabilityCost",
+    "value": 50,
+    "side": "Server"
+  }
+]

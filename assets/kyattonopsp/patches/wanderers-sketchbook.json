@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "file": "arthursjournal:recipes/grid/sketchbook.json",
+    "path": "/0/ingredients/L/code",
+    "value": "primitivesurvival:cordage"
+  },
+  {
+    "op": "replace",
+    "file": "arthursjournal:recipes/grid/sketchbook.json",
+    "path": "/0/ingredients/S/quantity",
+    "value": 8
+  }
+]

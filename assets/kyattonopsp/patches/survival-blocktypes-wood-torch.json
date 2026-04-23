@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-crude-lit-*/convertTo",
+    "value": "torch-crude-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-basic-lit-*/convertTo",
+    "value": "torch-basic-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-cloth-lit-*/convertTo",
+    "value": "torch-cloth-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+    {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-crude-lit-*/2",
+    "value": 9,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-basic-lit-*/2",
+    "value": 9,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-cloth-lit-*/2",
+    "value": 10,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  }
+]

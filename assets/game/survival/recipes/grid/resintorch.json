@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern: "G	S",
+		ingredients: {
+			"G": { type: "item", code: "resin", quantity: 1 },
+			"S": { type: "item", code: "stick", quantity: 4 }
+		},
+		width: 1,
+		height: 2,
+		output: { type: "block", code: "torch-basic-extinct-up", quantity: 4  }
+	}
+]

@@ -1,0 +1,9 @@
+{
+	"type": "content",
+	"modid": "kyattonopsp",
+	"name": "Kyatto's Personal Server Patches",
+	"authors": ["Kyattono"],
+	"description": "A collection of patches for my personal server",
+	"version": "1.0.0",
+}
+
