@@ -15,6 +15,10 @@ A collection of mod patches for my personal server to suite my tastes and maybe 
   - Firepit a tad brighter
   - Metal lanterns are quite bright
 
+### Recipes
+
+- Tannin recipes added for most log types to account for large biomes. Tannin content based on real world offset from vanilla oak's 10 liters per log. Redwood and walnut are next best compared to oak.
+
 ## Mapper
 
 *// probably removing mapper soon so this will go too*
