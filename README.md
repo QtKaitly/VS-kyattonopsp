@@ -2,6 +2,8 @@
 
 A collection of mod patches for my personal server to suite my tastes and maybe improve compatibility
 
+https://mods.vintagestory.at/show/mod/47292
+
 # Current Changes
 
 ## Game
