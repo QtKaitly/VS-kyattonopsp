@@ -31,6 +31,10 @@ Compass no longer single use, durability allows making several maps.
 
 Sketchbook binding for recipe is now cordage for earlier game use.
 
+## Archimedes Screw
+
+Can be made with more metals // MN compat planned
+
 # Planned Changes
 
 ## Game
