@@ -3,30 +3,35 @@
     "op": "replace",
     "file": "fuelbriquettes:itemtypes/briquettes.json",
     "path": "/combustiblePropsByType/briquette-charcoal/burnDuration",
-    "value": 400
+    "value": 400,
+    "dependsOn": [{ "modid": "fuelbriquettes" }]
   },
   {
     "op": "replace",
     "file": "fuelbriquettes:itemtypes/briquettes.json",
     "path": "/combustiblePropsByType/briquette-peat-soaked/burnDuration",
-    "value": 800
+    "value": 800,
+    "dependsOn": [{ "modid": "fuelbriquettes" }]
   },
   {
     "op": "replace",
     "file": "fuelbriquettes:itemtypes/briquettes.json",
     "path": "/combustiblePropsByType/briquette-peat/burnDuration",
-    "value": 600
+    "value": 600,
+    "dependsOn": [{ "modid": "fuelbriquettes" }]
   },
   {
     "op": "replace",
     "file": "fuelbriquettes:itemtypes/briquettes.json",
     "path": "/combustiblePropsByType/briquette-sawdust-soaked/burnDuration",
-    "value": 1100
+    "value": 1100,
+    "dependsOn": [{ "modid": "fuelbriquettes" }]
   },
   {
     "op": "replace",
     "file": "fuelbriquettes:itemtypes/briquettes.json",
     "path": "/combustiblePropsByType/briquette-sawdust/burnDuration",
-    "value": 300
+    "value": 300,
+    "dependsOn": [{ "modid": "fuelbriquettes" }]
   }
 ]

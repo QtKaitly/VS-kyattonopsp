@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "file": "archimedes_screw:recipes/grid/waterarchimedesscrew-ported.json",
+    "path": "/ingredients/C/code",
+    "value": "archimedes_screw:chutesection-*",
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  },
+  {
+    "op": "replace",
+    "file": "archimedes_screw:recipes/grid/waterarchimedesscrew-ported.json",
+    "path": "/ingredients/X/code",
+    "value": "game:metalplate-*",
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  }
+]

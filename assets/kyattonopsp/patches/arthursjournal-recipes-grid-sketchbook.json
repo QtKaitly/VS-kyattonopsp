@@ -3,12 +3,14 @@
     "op": "replace",
     "file": "arthursjournal:recipes/grid/sketchbook.json",
     "path": "/0/ingredients/L/code",
-    "value": "primitivesurvival:cordage"
+    "value": "primitivesurvival:cordage",
+    "dependsOn": [{ "modid": "arthursjournal" }]
   },
   {
     "op": "replace",
     "file": "arthursjournal:recipes/grid/sketchbook.json",
     "path": "/0/ingredients/S/quantity",
-    "value": 8
+    "value": 8,
+    "dependsOn": [{ "modid": "arthursjournal" }]
   }
 ]

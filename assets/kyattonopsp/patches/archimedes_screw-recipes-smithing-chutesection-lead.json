@@ -1,0 +1,45 @@
+[
+  {
+    "op": "replace",
+    "file": "archimedes_screw:recipes/smithing/chutesection-lead.json",
+    "path": "/output/code",
+    "value": "archimedes_screw:chutesection-{metal}",
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  },
+  {
+    "op": "replace",
+    "file": "archimedes_screw:recipes/smithing/chutesection-lead.json",
+    "path": "/ingredient/code",
+    "value": "game:ingot-*",
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  },
+  {
+    "op": "add",
+    "file": "archimedes_screw:recipes/smithing/chutesection-lead.json",
+    "path": "/ingredient/name",
+    "value": "metal",
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  },
+  {
+    "op": "add",
+    "file": "archimedes_screw:recipes/smithing/chutesection-lead.json",
+    "path": "/ingredient/allowedVariants",
+    "value": [
+      "copper",
+      "tinbronze",
+      "bismuth",
+      "lead",
+      "bismuthbronze",
+      "blackbronze",
+      "brass",
+      "silver",
+      "gold",
+      "iron",
+      "meteoriciron",
+      "steel",
+      "molybdochalkos",
+      "electrum"
+    ],
+    "dependsOn": [{ "modid": "thetruearchimedesscrew" }]
+  }
+]

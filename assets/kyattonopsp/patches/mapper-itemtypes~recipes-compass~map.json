@@ -3,40 +3,46 @@
     "op": "add",
     "file": "mapper:itemtypes/compass-primitive.json",
     "path": "/durability",
-    "value": 400
+    "value": 400,
+    "dependsOn": [{ "modid": "mapper" }]
   },
   {
     "op": "add",
     "file": "mapper:itemtypes/compass-precise.json",
     "path": "/durability",
-    "value": 1000
+    "value": 1000,
+    "dependsOn": [{ "modid": "mapper" }]
   },
   {
     "op": "add",
     "file": "mapper:recipes/grid/map.json",
     "path": "/1/ingredients/C/istool",
     "value": true,
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [{ "modid": "mapper" }]
   },
   {
     "op": "add",
     "file": "mapper:recipes/grid/map.json",
     "path": "/1/ingredients/C/toolDurabilityCost",
     "value": 50,
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [{ "modid": "mapper" }]
   },
   {
     "op": "add",
     "file": "mapper:recipes/grid/map.json",
     "path": "/0/ingredients/C/istool",
     "value": true,
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [{ "modid": "mapper" }]
   },
   {
     "op": "add",
     "file": "mapper:recipes/grid/map.json",
     "path": "/0/ingredients/C/toolDurabilityCost",
     "value": 50,
-    "side": "Server"
+    "side": "Server",
+    "dependsOn": [{ "modid": "mapper" }]
   }
 ]
