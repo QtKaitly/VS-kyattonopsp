@@ -6,6 +6,8 @@ https://mods.vintagestory.at/show/mod/47292
 
 # Current Changes
 
+Added potentially bad practice patch that fixes any ItemWearable class issues because we ball.
+
 ## Game
 
 ### Lighting
@@ -30,6 +32,10 @@ Compass no longer single use, durability allows making several maps.
 ## Wanderer's Sketchbook
 
 Sketchbook binding for recipe is now cordage for earlier game use.
+
+## FloralZones
+
+Fixes Grid Recipe * cannot be resolved issues.
 
 # Planned Changes
 
