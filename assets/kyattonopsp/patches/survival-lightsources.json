@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/lightHsvByType/firepit-lit/1",
+    "value": 3,
+    "file": "game:blocktypes/wood/firepit.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvByType/firepit-lit/2",
+    "value": 14,
+    "file": "game:blocktypes/wood/firepit.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvByType/firepit-extinct/1",
+    "value": 3,
+    "file": "game:blocktypes/wood/firepit.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvByType/firepit-extinct/2",
+    "value": 4,
+    "file": "game:blocktypes/wood/firepit.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-crude-lit-*/convertTo",
+    "value": "torch-crude-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-basic-lit-*/convertTo",
+    "value": "torch-basic-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/transientPropsbyType/*-cloth-lit-*/convertTo",
+    "value": "torch-cloth-extinct-*",
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+    {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-crude-lit-*/2",
+    "value": 10,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-basic-lit-*/2",
+    "value": 11,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsvbyType/*-cloth-lit-*/2",
+    "value": 13,
+    "file": "game:blocktypes/wood/torch.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsv/1",
+    "value": 6,
+    "file": "game:blocktypes/clay/fired/oillamp.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/lightHsv/2",
+    "value": 12,
+    "file": "game:blocktypes/clay/fired/oillamp.json",
+    "side": "Server"
+  }
+]

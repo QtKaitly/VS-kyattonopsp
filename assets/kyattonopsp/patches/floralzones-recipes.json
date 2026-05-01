@@ -1,0 +1,114 @@
+[
+    {
+        "dependsOn": [{"modid": "floralzonescaperegion"}],
+        "file": "floralzonescaperegion:recipes/grid/wood/ladder.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:ladder-wood-{wood}-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescaperegion"}],
+        "file": "floralzonescaperegion:recipes/grid/wood/ladder.json",
+        "op": "add",
+        "path": "/0/ingredients/P/name",
+        "value": "wood"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescaperegion"}],
+        "file": "floralzonescaperegion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:windmillrotor-wood-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescaribbeanregion"}],
+        "file": "floralzonescaribbeanregion:recipes/grid/wood/ladder.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:ladder-wood-{wood}-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescaribbeanregion"}],
+        "file": "floralzonescaribbeanregion:recipes/grid/wood/ladder.json",
+        "op": "add",
+        "path": "/0/ingredients/P/name",
+        "value": "wood"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescaribbeanregion"}],
+        "file": "floralzonescaribbeanregion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:windmillrotor-wood-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescentralaustralianregion"}],
+        "file": "floralzonescentralaustralianregion:recipes/grid/wood/ladder.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:ladder-wood-{wood}-north",
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescentralaustralianregion"}],
+        "file": "floralzonescentralaustralianregion:recipes/grid/wood/ladder.json",
+        "op": "add",
+        "path": "/0/ingredients/P/name",
+        "value": "wood"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonescentralaustralianregion"}],
+        "file": "floralzonescentralaustralianregion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:windmillrotor-wood-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesmediterraneanregion"}],
+        "file": "floralzonesmediterraneanregion:recipes/grid/wood/ladder.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:ladder-wood-{wood}-north",
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesmediterraneanregion"}],
+        "file": "floralzonesmediterraneanregion:recipes/grid/wood/ladder.json",
+        "op": "add",
+        "path": "/0/ingredients/P/name",
+        "value": "wood"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesmediterraneanregion"}],
+        "file": "floralzonesmediterraneanregion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:windmillrotor-wood-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesneozeylandicregion"}],
+        "file": "floralzonesneozeylandicregion:recipes/grid/wood/ladder.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:ladder-wood-{wood}-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesneozeylandicregion"}],
+        "file": "floralzonesneozeylandicregion:recipes/grid/wood/ladder.json",
+        "op": "add",
+        "path": "/0/ingredients/P/name",
+        "value": "wood"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesneozeylandicregion"}],
+        "file": "floralzonesneozeylandicregion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/0/output/code",
+        "value": "game:windmillrotor-wood-north"
+    },
+    {
+        "dependsOn": [{"modid": "floralzonesneozeylandicregion"}],
+        "file": "floralzonesneozeylandicregion:recipes/grid/wood/mechpowerblocks.json",
+        "op": "replace",
+        "path": "/1/output/code",
+        "value": "game:windmillrotor-wood-north"
+    }
+]
