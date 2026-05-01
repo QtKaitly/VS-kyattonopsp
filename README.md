@@ -6,8 +6,6 @@ https://mods.vintagestory.at/show/mod/47292
 
 # Current Changes
 
-Added potentially bad practice patch that fixes any ItemWearable class issues because we ball.
-
 ## Game
 
 ### Lighting
