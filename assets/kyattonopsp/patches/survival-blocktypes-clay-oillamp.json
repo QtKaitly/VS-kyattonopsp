@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/lightHsv/2",
-    "value": 13,
-    "file": "game:blocktypes/clay/oillamp.json",
-    "side": "Server"
-  }
-]

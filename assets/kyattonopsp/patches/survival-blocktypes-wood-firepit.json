@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/lightHsvByType/firepit-lit/2",
-    "value": 12,
-    "file": "game:blocktypes/wood/firepit.json",
-    "side": "Server"
-  }
-]

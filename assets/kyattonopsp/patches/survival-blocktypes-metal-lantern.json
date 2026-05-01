@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/lightHsv/2",
-    "value": 16,
-    "file": "game:blocktypes/metal/lantern.json",
-    "side": "Server"
-  }
-]

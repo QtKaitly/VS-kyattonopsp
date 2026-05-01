@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/lightHsvByType/*-filled-*/2",
-    "value": 14,
-    "file": "game:blocktypes/metal/torchholder.json",
-    "side": "Server"
-  }
-]
