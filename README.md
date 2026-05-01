@@ -6,6 +6,8 @@ https://mods.vintagestory.at/show/mod/47292
 
 # Current Changes
 
+Added potentially bad practice patch that fixes any ItemWearable class issues because we ball.
+
 ## Game
 
 ### Lighting
@@ -34,6 +36,10 @@ Sketchbook binding for recipe is now cordage for earlier game use.
 ## Archimedes Screw
 
 Can be made with more metals // MN compat planned
+
+## FloralZones
+
+Fixes Grid Recipe * cannot be resolved issues.
 
 # Planned Changes
 
